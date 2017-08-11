@@ -14,13 +14,17 @@ import org.springframework.stereotype.Component;
 @EnableDiscoveryClient
 @Component
 public class CatalogApp {
-
 	private final ItemRepository itemRepository;
-
+	private final ItemRepository itemRepository;
+	//private final ItemRepository itemRepository;
 	@Autowired
 	public CatalogApp(ItemRepository itemRepository) {
 		this.itemRepository = itemRepository;
 	}
+
+
+
+
 
 	@PostConstruct
 	public void generateTestData() {

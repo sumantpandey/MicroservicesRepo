@@ -15,12 +15,15 @@ public class Item {
 	@Id
 	@GeneratedValue
 	private Long id;
-
+	private final ItemRepository itemRepository;
 	@Column(nullable = false)
 	private String name;
-
+	private final ItemRepository itemRepository;
 	@Column(nullable = false)
 	private double price;
+
+
+	//private final ItemRepository itemRepository;
 
 	public Item() {
 		super();
