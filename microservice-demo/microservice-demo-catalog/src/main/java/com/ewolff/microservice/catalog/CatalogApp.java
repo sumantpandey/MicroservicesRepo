@@ -22,10 +22,6 @@ public class CatalogApp {
 		this.itemRepository = itemRepository;
 	}
 
-
-
-
-
 	@PostConstruct
 	public void generateTestData() {
 		itemRepository.save(new Item("iPod", 42.0));

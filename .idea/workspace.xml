@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832ee0a9-83c7-48fa-84bf-81804f04601f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/TEST-com.ewolff.microservice.catalog.CatalogWebIntegrationTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/TEST-com.ewolff.microservice.catalog.RepositoryTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/TEST-com.ewolff.microservice.catalog.cdc.CatalogConsumerDrivenContractTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/com.ewolff.microservice.catalog.CatalogWebIntegrationTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/com.ewolff.microservice.catalog.RepositoryTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/surefire-reports/com.ewolff.microservice.catalog.cdc.CatalogConsumerDrivenContractTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/surefire-reports/TEST-com.ewolff.microservice.customer.CustomerWebIntegrationTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/surefire-reports/TEST-com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/surefire-reports/com.ewolff.microservice.customer.CustomerWebIntegrationTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/surefire-reports/com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/surefire-reports/TEST-com.ewolff.microservice.eurekaserver.ApplicationTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/surefire-reports/com.ewolff.microservice.eurekaserver.ApplicationTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/TEST-com.ewolff.microservice.order.logic.CatalogConsumerDrivenContractTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/TEST-com.ewolff.microservice.order.logic.CustomerConsumerDrivenContractTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/TEST-com.ewolff.microservice.order.logic.OrderWebIntegrationTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/com.ewolff.microservice.order.logic.CatalogConsumerDrivenContractTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/com.ewolff.microservice.order.logic.CustomerConsumerDrivenContractTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/surefire-reports/com.ewolff.microservice.order.logic.OrderWebIntegrationTest.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/classes/com/ewolff/microservice/catalog/CatalogApp.class" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/classes/com/ewolff/microservice/catalog/CatalogApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/classes/com/ewolff/microservice/catalog/Item.class" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/classes/com/ewolff/microservice/catalog/Item.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/microservice-demo-catalog-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/microservice-demo-catalog-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/microservice-demo-catalog-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/microservice-demo-catalog-0.0.1-SNAPSHOT.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/test-classes/com/ewolff/microservice/catalog/CatalogTestApp.class" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/test-classes/com/ewolff/microservice/catalog/CatalogTestApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/microservice-demo-customer-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/microservice-demo-customer-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/microservice-demo-customer-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/microservice-demo-customer-0.0.1-SNAPSHOT.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/microservice-demo-eureka-server-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/microservice-demo-eureka-server-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/microservice-demo-eureka-server-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/microservice-demo-eureka-server-0.0.1-SNAPSHOT.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/microservice-demo-order-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/microservice-demo-order-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/microservice-demo-order-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/microservice-demo-order-0.0.1-SNAPSHOT.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/microservice-demo-turbine-server-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/microservice-demo-turbine-server-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/microservice-demo-turbine-server-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/microservice-demo-turbine-server-0.0.1-SNAPSHOT.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/microservice-demo-zuul-server-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/microservice-demo-zuul-server-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/microservice-demo-zuul-server-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/microservice-demo-zuul-server-0.0.1-SNAPSHOT.jar.original" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-customer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-turbine-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/microservice-demo/microservice-demo-zuul-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/vcs.xml" />
@@ -81,9 +20,11 @@
       <file leaf-file-name="CatalogApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="95">
+              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <marker date="1502961132031" expanded="false" signature="1146:1149" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,9 +32,11 @@
       <file leaf-file-name="CatalogTestApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="252">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1502961015914" expanded="true" signature="479:482" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,8 +55,26 @@
         <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding />
+              <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <marker date="1502961015910" expanded="true" signature="672:698" ph="{...}" />
+                <marker date="1502961015910" expanded="true" signature="740:797" ph="{...}" />
+                <marker date="1502961015910" expanded="false" signature="823:828" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="840:843" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="878:883" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="900:903" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="930:935" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="948:951" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="988:993" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="1012:1015" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="1037:1042" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="1052:1055" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="1084:1089" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="1102:1105" ph=" }" />
+                <marker date="1502961015910" expanded="false" signature="1143:1148" ph=" { " />
+                <marker date="1502961015910" expanded="false" signature="1196:1199" ph=" }" />
+                <marker date="1502961015910" expanded="true" signature="1235:1291" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -675,7 +636,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1502961132031" expanded="false" signature="1146:1149" ph=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -683,7 +646,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1502961015910" expanded="true" signature="672:698" ph="{...}" />
+            <marker date="1502961015910" expanded="true" signature="740:797" ph="{...}" />
+            <marker date="1502961015910" expanded="false" signature="823:828" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="840:843" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="878:883" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="900:903" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="930:935" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="948:951" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="988:993" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1012:1015" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1037:1042" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1052:1055" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1084:1089" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1102:1105" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1143:1148" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1196:1199" ph=" }" />
+            <marker date="1502961015910" expanded="true" signature="1235:1291" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -691,7 +672,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1502961015914" expanded="true" signature="479:482" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,7 +682,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1502961132031" expanded="false" signature="1146:1149" ph=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -707,7 +692,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1502961015910" expanded="true" signature="672:698" ph="{...}" />
+            <marker date="1502961015910" expanded="true" signature="740:797" ph="{...}" />
+            <marker date="1502961015910" expanded="false" signature="823:828" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="840:843" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="878:883" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="900:903" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="930:935" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="948:951" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="988:993" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1012:1015" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1037:1042" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1052:1055" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1084:1089" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1102:1105" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1143:1148" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1196:1199" ph=" }" />
+            <marker date="1502961015910" expanded="true" signature="1235:1291" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -715,23 +718,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1502961015914" expanded="true" signature="479:482" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <marker date="1502961015910" expanded="true" signature="672:698" ph="{...}" />
+            <marker date="1502961015910" expanded="true" signature="740:797" ph="{...}" />
+            <marker date="1502961015910" expanded="false" signature="823:828" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="840:843" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="878:883" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="900:903" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="930:935" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="948:951" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="988:993" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1012:1015" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1037:1042" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1052:1055" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1084:1089" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1102:1105" ph=" }" />
+            <marker date="1502961015910" expanded="false" signature="1143:1148" ph=" { " />
+            <marker date="1502961015910" expanded="false" signature="1196:1199" ph=" }" />
+            <marker date="1502961015910" expanded="true" signature="1235:1291" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1502961015914" expanded="true" signature="479:482" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -745,9 +770,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="95">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <marker date="1502961132031" expanded="false" signature="1146:1149" ph=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
